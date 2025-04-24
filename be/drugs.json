@@ -1,0 +1,182 @@
+[
+  {
+    "Name": "Metformin",
+    "Brand Name": "Glucophage",
+    "Drug Class": "Biguanide",
+    "NDC": "0003-0178-50",
+    "Indications": ["Type 2 Diabetes Mellitus"],
+    "Warnings": "Risk of lactic acidosis",
+    "Image": "Tablet image (placeholder OK)"
+  },
+  {
+    "Name": "Lisinopril",
+    "Brand Name": "Prinivil, Zestril",
+    "Drug Class": "ACE Inhibitor",
+    "NDC": "0006-0001-82",
+    "Indications": ["Hypertension", "Heart Failure"],
+    "Warnings": "May cause angioedema",
+    "Image": "Capsule image (placeholder OK)"
+  },
+  {
+    "Name": "Levothyroxine",
+    "Brand Name": "Synthroid, Levoxyl",
+    "Drug Class": "Thyroid Hormone",
+    "NDC": "0004-0241-01",
+    "Indications": ["Hypothyroidism"],
+    "Warnings": "Use caution in patients with cardiovascular disease",
+    "Image": "Round pill image (placeholder OK)"
+  },
+  {
+    "Name": "Amlodipine",
+    "Brand Name": "Norvasc",
+    "Drug Class": "Calcium Channel Blocker",
+    "NDC": "0069-2580-31",
+    "Indications": ["Hypertension", "Angina"],
+    "Warnings": "May cause peripheral edema",
+    "Image": "Oval pill image (placeholder OK)"
+  },
+  {
+    "Name": "Omeprazole",
+    "Brand Name": "Prilosec",
+    "Drug Class": "Proton Pump Inhibitor (PPI)",
+    "NDC": "0186-0100-31",
+    "Indications": ["GERD", "Peptic Ulcer Disease"],
+    "Warnings": "Possible increased risk of fractures with long-term use",
+    "Image": "Delayed-release capsule (placeholder OK)"
+  },
+  {
+    "Name": "Simvastatin",
+    "Brand Name": "Zocor",
+    "Drug Class": "Statin",
+    "NDC": "0006-0860-50",
+    "Indications": ["Hyperlipidemia", "Prevention of CV events"],
+    "Warnings": "Risk of myopathy",
+    "Image": "Oblong pill image (placeholder OK)"
+  },
+  {
+    "Name": "Losartan",
+    "Brand Name": "Cozaar",
+    "Drug Class": "Angiotensin II Receptor Blocker (ARB)",
+    "NDC": "0085-0051-01",
+    "Indications": ["Hypertension", "Diabetic Nephropathy"],
+    "Warnings": "Contraindicated in pregnancy",
+    "Image": "Film-coated tablet (placeholder OK)"
+  },
+  {
+    "Name": "Hydrochlorothiazide",
+    "Brand Name": "Microzide",
+    "Drug Class": "Thiazide Diuretic",
+    "NDC": "0009-0071-01",
+    "Indications": ["Hypertension", "Edema"],
+    "Warnings": "May cause electrolyte imbalances",
+    "Image": "Small tablet image (placeholder OK)"
+  },
+  {
+    "Name": "Azithromycin",
+    "Brand Name": "Zithromax",
+    "Drug Class": "Macrolide Antibiotic",
+    "NDC": "0069-3171-30",
+    "Indications": ["Bacterial Infections"],
+    "Warnings": "Risk of QT prolongation",
+    "Image": "Capsule image (placeholder OK)"
+  },
+  {
+    "Name": "Amoxicillin",
+    "Brand Name": "Amoxil",
+    "Drug Class": "Penicillin Antibiotic",
+    "NDC": "0009-0003-01",
+    "Indications": ["Bacterial Infections"],
+    "Warnings": "Possible allergic reactions",
+    "Image": "Chewable tablet (placeholder OK)"
+  },
+  {
+    "Name": "Pantoprazole",
+    "Brand Name": "Protonix",
+    "Drug Class": "Proton Pump Inhibitor (PPI)",
+    "NDC": "0008-0850-01",
+    "Indications": ["GERD", "Erosive Esophagitis"],
+    "Warnings": "Possible increased risk of *C. difficile* infection",
+    "Image": "Enteric-coated tablet (placeholder OK)"
+  },
+  {
+    "Name": "Citalopram",
+    "Brand Name": "Celexa",
+    "Drug Class": "Selective Serotonin Reuptake Inhibitor (SSRI)",
+    "NDC": "0004-5728-01",
+    "Indications": ["Depression"],
+    "Warnings": "Increased risk of suicidal thoughts in young adults",
+    "Image": "Scored tablet image (placeholder OK)"
+  },
+  {
+    "Name": "Montelukast",
+    "Brand Name": "Singulair",
+    "Drug Class": "Leukotriene Receptor Antagonist",
+    "NDC": "0085-4070-01",
+    "Indications": ["Asthma", "Allergic Rhinitis"],
+    "Warnings": "Possible neuropsychiatric events",
+    "Image": "Tablet image (placeholder OK)"
+  },
+  {
+    "Name": "Tramadol",
+    "Brand Name": "Ultram",
+    "Drug Class": "Opioid Analgesic",
+    "NDC": "0093-0051-01",
+    "Indications": ["Moderate to Severe Pain"],
+    "Warnings": "Risk of addiction, abuse, and misuse",
+    "Image": "Extended-release tablet (placeholder OK)"
+  },
+  {
+    "Name": "Warfarin",
+    "Brand Name": "Coumadin",
+    "Drug Class": "Anticoagulant",
+    "NDC": "0003-0137-30",
+    "Indications": ["Prevention of Blood Clots"],
+    "Warnings": "Risk of bleeding, requires regular monitoring",
+    "Image": "Different colored tablets (placeholder OK)"
+  },
+  {
+    "Name": "Melatonin",
+    "Brand Name": "Various",
+    "Drug Class": "Hormone",
+    "NDC": "N/A (often a supplement)",
+    "Indications": ["Insomnia"],
+    "Warnings": "May cause drowsiness",
+    "Image": "Gummy or tablet (placeholder OK)"
+  },
+  {
+    "Name": "Ibuprofen",
+    "Brand Name": "Advil, Motrin",
+    "Drug Class": "NSAID",
+    "NDC": "0009-0074-02",
+    "Indications": ["Pain", "Fever", "Inflammation"],
+    "Warnings": "Risk of stomach bleeding and cardiovascular events",
+    "Image": "Caplet image (placeholder OK)"
+  },
+  {
+    "Name": "Naproxen",
+    "Brand Name": "Aleve, Naprosyn",
+    "Drug Class": "NSAID",
+    "NDC": "0003-0230-50",
+    "Indications": ["Pain", "Fever", "Inflammation"],
+    "Warnings": "Risk of stomach bleeding and cardiovascular events",
+    "Image": "Blue tablet (placeholder OK)"
+  },
+  {
+    "Name": "Cetirizine",
+    "Brand Name": "Zyrtec",
+    "Drug Class": "Antihistamine",
+    "NDC": "0005-8710-31",
+    "Indications": ["Allergies"],
+    "Warnings": "May cause drowsiness in some individuals",
+    "Image": "White tablet (placeholder OK)"
+  },
+  {
+    "Name": "Loratadine",
+    "Brand Name": "Claritin",
+    "Drug Class": "Antihistamine",
+    "NDC": "0008-0081-01",
+    "Indications": ["Allergies"],
+    "Warnings": "Generally non-drowsy",
+    "Image": "RediTab image (placeholder OK)"
+  }
+]
